@@ -1,0 +1,16 @@
+# Line endings.
+#
+# Everything here runs on macOS, so it is LF. A shell script with carriage returns in it
+# does not run there at all — bash reads the \r as part of the command — and editing one
+# from Windows is enough to rewrite a whole file's endings without saying so.
+*           text=auto eol=lf
+*.cmd       text eol=crlf
+*.ps1       text eol=crlf
+*.bat       text eol=crlf
+*.png       binary
+*.icns      binary
+*.ttf       binary
+*.otf       binary
+*.ttc       binary
+*.mid       binary
+*.dmg       binary

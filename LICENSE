@@ -1,0 +1,46 @@
+MangoApps
+Copyright (c) 2026 Mingyu. All rights reserved.
+
+MangoApps is an index. It holds no application code of its own: each of the five
+apps it points at is licensed in its own repository, and nothing here grants any
+licence to any of them.
+
+The apps are free to use. They are not free to take.
+
+
+WHAT YOU MAY DO
+
+  - Clone this repository, follow its pointers, and build and use any of the
+    apps on any computer you own or use, for as long as you like, without paying
+    anything and without signing up for anything.
+  - Read the source code published in those repositories, and learn whatever you
+    like from reading it.
+  - Tell anyone you like about them, and link them here.
+
+
+WHAT YOU MAY NOT DO, WITHOUT WRITTEN PERMISSION FROM THE COPYRIGHT HOLDER
+
+  - Republish, mirror or redistribute any of the applications, their source code
+    or their installers, whether on their own or bundled inside anything else.
+  - Sell them, charge for access to them, or place them behind advertising, a
+    survey, a link shortener or any other paywall.
+  - Modify them, or build anything derived from them, beyond changes you keep to
+    yourself on your own machine.
+  - Reuse their source code, in whole or in part, in any other project.
+  - Present them, modified or unmodified, in whole or in part, as your own work,
+    or remove or alter any credit, name or notice they carry.
+
+The source code is published to be read, not to be reused. Publishing it grants
+no licence to it of any kind, including by having seen it.
+
+Third-party components carry their own licences and are not covered by this one.
+
+
+NO WARRANTY
+
+Everything here is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability, fitness
+for a particular purpose and noninfringement. In no event shall the copyright
+holder be liable for any claim, damages or other liability, whether in an action
+of contract, tort or otherwise, arising from, out of or in connection with these
+applications or the use or other dealings in them.

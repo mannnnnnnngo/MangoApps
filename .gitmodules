@@ -1,0 +1,15 @@
+[submodule "Mangoclass"]
+	path = Mangoclass
+	url = https://github.com/mannnnnnnngo/Mangoclass.git
+[submodule "Mangobar"]
+	path = Mangobar
+	url = https://github.com/mannnnnnnngo/Mangobar.git
+[submodule "MangoTesting"]
+	path = MangoTesting
+	url = https://github.com/mannnnnnnngo/MangoTesting.git
+[submodule "MangoMIDI"]
+	path = MangoMIDI
+	url = https://github.com/mannnnnnnngo/MangoMIDI.git
+[submodule "DynamicMango"]
+	path = DynamicMango
+	url = https://github.com/mannnnnnnngo/DynamicMango.git

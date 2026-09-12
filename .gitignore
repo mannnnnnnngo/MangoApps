@@ -1,0 +1,5 @@
+.DS_Store
+
+# Session notes and scratch files. These are working notes, not the project — they stay
+# on disk, outside any repository.
+*-SESSION.md
