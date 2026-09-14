@@ -13,3 +13,6 @@
 [submodule "DynamicMango"]
 	path = DynamicMango
 	url = https://github.com/mannnnnnnngo/DynamicMango.git
+[submodule "MangoWallpapers"]
+	path = MangoWallpapers
+	url = https://github.com/mannnnnnnngo/MangoWallpapers.git

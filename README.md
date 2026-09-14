@@ -4,13 +4,13 @@
 
 **Every Mango app, in one place.**
 
-Five repositories, wired together here as submodules — so one clone gets you all of them, at versions known to go together.
+Six repositories, wired together here as submodules — so one clone gets you all of them, at versions known to go together.
 
 Made by Mingyu 🧑‍💻
 
 <br>
 
-![Apps](https://img.shields.io/badge/apps-5-7C5CFF?style=for-the-badge)
+![Apps](https://img.shields.io/badge/apps-6-7C5CFF?style=for-the-badge)
 ![macOS](https://img.shields.io/badge/macOS-202020?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Price](https://img.shields.io/badge/price-free-2EA043?style=for-the-badge)
@@ -27,7 +27,7 @@ Made by Mingyu 🧑‍💻
 
 ---
 
-## 📖 The five
+## 📖 The six
 
 | | App | What it does | Platform | Status |
 |---|---|---|---|---|
@@ -36,6 +36,7 @@ Made by Mingyu 🧑‍💻
 | 🥭 | **[Mango Testing](https://github.com/mannnnnnnngo/MangoTesting)** | A vocabulary and geography trainer: six ways to drill words, fourteen maps, all of it offline | 🍎 macOS · 🪟 Windows | ✅ **1.1.0** — shipping |
 | 🥭 | **[Mango MIDI](https://github.com/mannnnnnnngo/MangoMIDI)** | Turns a song into a piano MIDI score by transcribing it over and over *while it plays* | 🍎 macOS | ✅ **1.1.0** — shipping |
 | 🥭 | **[DynamicMango](https://github.com/mannnnnnnngo/DynamicMango)** | A Dynamic Island for the MacBook notch — now playing, lyrics, a live piano roll, a drop shelf | 🍎 macOS | ✅ **1.1.0** — shipping |
+| 🥭 | **[Mango Wallpapers](https://github.com/mannnnnnnngo/MangoWallpapers)** | A moving desktop background: a video or GIF behind your icons, sized so small pictures stay sharp | 🍎 macOS | ✅ **1.0.0** — shipping |
 
 ---
 
@@ -158,11 +159,23 @@ delivered score **replaces** DynamicMango's own live transcription rather than j
 of that index is a contract between the two repositories — which is the main reason they are pinned
 together here.
 
+### 🥭 [Mango Wallpapers](https://github.com/mannnnnnnngo/MangoWallpapers) — *a desktop that moves*
+
+Point it at an `.mp4`, a `.mov` or a GIF and it plays on the desktop, behind the icons, on every
+screen or a different one per screen. The part worth having is the sizing: most wallpaper apps
+stretch whatever you give them to the size of the display, which is fine for a 4K still and
+ruinous for a 112-pixel GIF. This one fills the screen with anything big enough and centres what
+isn't, magnified by a whole number of times so it stays sharp rather than smeared.
+
+Stops playing when the desktop is completely covered — which on a laptop is most of the day — and
+optionally whenever you are on battery. Three wallpapers are built in, drawn by the app on first
+run rather than shipped as files.
+
 ---
 
 ## 🧾 Common ground
 
-The five share conventions, not code:
+The six share conventions, not code:
 
 | | |
 |---|---|
