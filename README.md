@@ -31,11 +31,11 @@ Made by Mingyu 🧑‍💻
 
 | | App | What it does | Platform | Status |
 |---|---|---|---|---|
-| 🥭 | **[mangoclass](https://github.com/mannnnnnnngo/Mangoclass)** | A menu bar app that counts down your current class and shows what's next, with automatic A/B day rotation | 🍎 macOS *(CLI on 🐧🪟)* | ✅ **2.1.4** — shipping |
-| 🥭 | **[MangoBar](https://github.com/mannnnnnnngo/Mangobar)** | A taskbar that replaces uBar — and can actually exclude the app pretending to be Java | 🍎 macOS | ✅ **1.0.0** — done |
-| 🥭 | **[Mango Testing](https://github.com/mannnnnnnngo/MangoTesting)** | A vocabulary and geography trainer: six ways to drill words, fourteen maps, all of it offline | 🍎 macOS · 🪟 Windows | ✅ **1.0.0** — done |
-| 🥭 | **[Mango MIDI](https://github.com/mannnnnnnngo/MangoMIDI)** | Turns a song into a piano MIDI score by transcribing it over and over *while it plays* | 🍎 macOS | 🚧 **1.0.0** — in development |
-| 🥭 | **[DynamicMango](https://github.com/mannnnnnnngo/DynamicMango)** | A Dynamic Island for the MacBook notch — now playing, lyrics, a live piano roll, a drop shelf | 🍎 macOS | 🚧 **1.0.0** — in development |
+| 🥭 | **[mangoclass](https://github.com/mannnnnnnngo/Mangoclass)** | A menu bar app that counts down your current class and shows what's next, with automatic A/B day rotation | 🍎 macOS *(CLI on 🐧🪟)* | ✅ **2.2.0** — shipping |
+| 🥭 | **[MangoBar](https://github.com/mannnnnnnngo/Mangobar)** | A Windows-style taskbar: every open app in a row along the screen edge — and it can exclude the one pretending to be Java | 🍎 macOS | ✅ **1.1.0** — shipping |
+| 🥭 | **[Mango Testing](https://github.com/mannnnnnnngo/MangoTesting)** | A vocabulary and geography trainer: six ways to drill words, fourteen maps, all of it offline | 🍎 macOS · 🪟 Windows | ✅ **1.1.0** — shipping |
+| 🥭 | **[Mango MIDI](https://github.com/mannnnnnnngo/MangoMIDI)** | Turns a song into a piano MIDI score by transcribing it over and over *while it plays* | 🍎 macOS | ✅ **1.1.0** — shipping |
+| 🥭 | **[DynamicMango](https://github.com/mannnnnnnngo/DynamicMango)** | A Dynamic Island for the MacBook notch — now playing, lyrics, a live piano roll, a drop shelf | 🍎 macOS | ✅ **1.1.0** — shipping |
 
 ---
 
@@ -88,10 +88,11 @@ portable and ships as a command-line app for Windows and Linux, still in develop
 
 ### 🥭 [MangoBar](https://github.com/mannnnnnnngo/Mangobar) — *a taskbar that knows what an app really is*
 
-A uBar replacement. uBar identifies apps by bundle id and display name only, which is why Minecraft
-shows up as "Java" and can't be excluded. MangoBar matches on bundle id, executable name, executable
-path or a regex, and lets you rename and re-icon anything it gets wrong. Eight preference tabs
-mirroring uBar's layout, everything also editable as JSON, and changes apply in about two seconds
+macOS has no taskbar — the Dock shows what you pinned, not what is open. MangoBar draws the missing
+row. A taskbar that identifies apps by bundle id and display name alone gets some of them wrong,
+which is why Minecraft shows up as "Java" and can't be excluded. MangoBar matches on bundle id, executable name, executable
+path or a regex, and lets you rename and re-icon anything it gets wrong. Eight preference tabs,
+everything also editable as JSON, and changes apply in about two seconds
 without a restart.
 
 Runs with **zero permissions** — Screen Recording and Accessibility are only asked for if you turn on
@@ -128,7 +129,7 @@ and an interrupted search resumes instead of restarting. Finished scores are han
 
 ### 🥭 [DynamicMango](https://github.com/mannnnnnnngo/DynamicMango) — *make the notch do something*
 
-A boringNotch replacement, written clean-room, for the reason that it should have knobs: every feature
+Written clean-room, for the reason that a notch panel should have knobs: every feature
 exposes its parameters in `config.json` from the moment it is written, and a theme is data rather than
 code. The panel measures the hardware notch from public API, draws itself over it, and holds now
 playing, lyrics, a drop shelf, a spectrum visualizer and a piano roll — the last of which prefers a
