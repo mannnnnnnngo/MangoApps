@@ -205,4 +205,6 @@ Copyright © 2026 Mingyu. All rights reserved.
 
 🆓 All free · 🔒 No accounts, no telemetry · 📭 Your data stays yours
 
+🎓 Also by Mango: [High Honors](https://highhonors.pages.dev), a free student dashboard for Google Classroom, Gmail and Calendar
+
 </div>
