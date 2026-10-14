@@ -32,11 +32,11 @@ Made by Mingyu 🧑‍💻
 | | App | What it does | Platform | Status |
 |---|---|---|---|---|
 | 🥭 | **[mangoclass](https://github.com/mannnnnnnngo/Mangoclass)** | A menu bar app that counts down your current class and shows what's next, with automatic A/B day rotation | 🍎 macOS *(CLI on 🐧🪟)* | ✅ **2.2.0** — shipping |
-| 🥭 | **[MangoBar](https://github.com/mannnnnnnngo/Mangobar)** | A Windows-style taskbar: every open app in a row along the screen edge — and it can exclude the one pretending to be Java | 🍎 macOS | ✅ **1.1.0** — shipping |
+| 🥭 | **[MangoBar](https://github.com/mannnnnnnngo/Mangobar)** | A Windows-style taskbar: every open app in a row along the screen edge — and it can exclude the one pretending to be Java | 🍎 macOS | ✅ **1.4.0** — shipping |
 | 🥭 | **[Mango Testing](https://github.com/mannnnnnnngo/MangoTesting)** | A vocabulary and geography trainer: six ways to drill words, fourteen maps, all of it offline | 🍎 macOS · 🪟 Windows | ✅ **1.1.0** — shipping |
 | 🥭 | **[Mango MIDI](https://github.com/mannnnnnnngo/MangoMIDI)** | Turns a song into a piano MIDI score by transcribing it over and over *while it plays* | 🍎 macOS | ✅ **1.1.0** — shipping |
 | 🥭 | **[DynamicMango](https://github.com/mannnnnnnngo/DynamicMango)** | A Dynamic Island for the MacBook notch — now playing, lyrics, a live piano roll, a drop shelf | 🍎 macOS | ✅ **1.1.0** — shipping |
-| 🥭 | **[Mango Wallpapers](https://github.com/mannnnnnnngo/MangoWallpapers)** | A moving desktop background: a video or GIF behind your icons, sized so small pictures stay sharp | 🍎 macOS | ✅ **1.0.0** — shipping |
+| 🥭 | **[Mango Wallpapers](https://github.com/mannnnnnnngo/MangoWallpapers)** | A moving desktop background: a video or GIF behind your icons, sized so small pictures stay sharp | 🍎 macOS | ✅ **1.2.0** — shipping |
 
 ---
 
